@@ -9,7 +9,7 @@ A beautiful, responsive login/signup page built with pure HTML, CSS, and JavaScr
 
 ## 🚀 Demo
 
-**Live Demo**: 
+**Live Demo**: https://ganeshpadhy007-collab.github.io/Login-app/
 
 Run locally: Open `index.html` in browser
 
